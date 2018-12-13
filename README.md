@@ -1,3 +1,3 @@
 # SpaceDodgeriOS
 
-<img src="spaceDodger.gif?raw=true" width="500px">
+<img src="SpaceDodger.gif?raw=true" width="500px">
